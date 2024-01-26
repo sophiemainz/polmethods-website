@@ -6,9 +6,9 @@ Seminar Series on Methods in Political Science, Department of Government, Uppsal
 
 | Date       | Topic        | Format                                  |
 |------------|-------------------|-----------------------------------------|
-| 13.03.2024 | Conjoint Experiments | Half-day on conjoint experiments including an introductory lecture and an open workshop with project presentations. Co-orgainsers: Maria Nordbrandt Bergström and Lutz Gschwind |
+| 28.02.2024 tbd | Pre-registration of experiments | tbd    |
+| 13.03.2024 tbd| Conjoint Experiments | Half-day on conjoint experiments including an introductory lecture and an open workshop with project presentations. Co-orgainsers: Maria Nordbrandt Bergström and Lutz Gschwind |
 | tba | Surveys in challenging contexts | Workshop on designing surveys that are conducted in challangeing contexts |
-| tba | Pre-registration of experiments | tbd    |
 | tba | Introduction to Swedish population data | tbd    |
 | tba | Vignette design for survey experiments | tbd    |
 
