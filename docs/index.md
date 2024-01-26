@@ -4,13 +4,14 @@ Seminar Series on Methods in Political Science, Department of Government, Uppsal
 
 ### Schedule Spring 2024 
 
-| Date       | Topic        | Format                                  |
-|------------|-------------------|-----------------------------------------|
-| 28.02.2024 | Pre-registration of experiments | tbd    |
-| 13.03.2024 | Conjoint Experiments | Half-day on conjoint experiments with project presentations. Co-orgainsers: Maria Nordbrandt Bergström and Lutz Gschwind |
-| tba | Surveys in challenging contexts | Workshop on designing surveys that are conducted in challangeing contexts |
-| tba | Introduction to Swedish population data | tbd    |
-| tba | Vignette design for survey experiments | tbd    |
+| Date       | Time       | Topic        | Format                                  |
+|------------|------------|------------|--------------------------------------|
+| 28.02.2024 | 14:00 - 15:00| Pre-registration of experiments | Seminar on the how to of experiment preregistration, including discussion on best practices and challanges. Co-organiser: Adrian del Rio Rodriguez |
+| 13.03.2024 | 13:30 - 17:00 | Conjoint Experiments | Half-day on conjoint experiments with individual project presentations. Co-orgainsers: Maria Nordbrandt Bergström and Lutz Gschwind |
+| tba | tba | Surveys in challenging contexts | Seminar on the design and administration of surveys in challangeing contexts. Co-organiser: Emma Elfversson|
+| tba | tba | Vignette design for survey experiments | tba    |
+| tba | tba | Introduction to Swedish population data | tba    |
+
 
 
 ### Past Events 2023
