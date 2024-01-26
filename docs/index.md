@@ -17,10 +17,10 @@ Seminar Series on Methods in Political Science, Department of Government, Uppsal
 
 | Date       | Topic        | Format                                  |
 |------------|-------------------|-----------------------------------------|
-| 09.06.2023 | Machine Learning (ML) and Text-as-Data (TAD) | Introductory workshop with Matías Piqueras| 
-| 12.05.2023 | Machine Learning for Social Scientists | Introductory workshop with Amandus Krantz|
-| 02.05.2023 | Getting to know R II| Introductory workshop on R and RStudio|
-| 20.03.2023 | Getting to know R I| Introductory workshop on R and RStudio|
+| 09.06.2023 | Machine Learning (ML) and Text-as-Data (TAD) | Introductory workshop by Matías Piqueras| 
+| 12.05.2023 | Machine Learning for Social Scientists | Introductory workshop by Amandus Krantz|
+| 02.05.2023 | Getting to know R II| Introductory workshop on R and RStudio by Sophie Mainz and Emelie Karlsson|
+| 20.03.2023 | Getting to know R I| Introductory workshop on R and RStudio by Sophie Mainz and Emelie Karlsson|
 
 
 
@@ -31,4 +31,4 @@ Participation in PolMethods events is open to all members of the Department of G
 
 ### Contact
 
-[E-Mail 📧](mailto:sophie.mainz@uu.se)
+[E-Mail](mailto:sophie.mainz@uu.se)
