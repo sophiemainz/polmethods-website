@@ -28,7 +28,9 @@ Seminar Series on Methods in Political Science, Department of Government, Uppsal
 
 ### Would you like to participate? 
 
-Participation in PolMethods events is open to all members of the Department of Government and guests. Detailled information about the events is send out by mail. If you have ideas for future sessions please reach out to us, there are still slots available.
+The PolMethod events welcome members of the Department of Government and external guests, regardless of departmental affiliation. As such, you are welcome to circle the invitation in your network. 
+
+Detailled information about the events is send out by mail. If you have ideas for future sessions please reach out to us, there are still slots available. 
 
 ### Contact
 
