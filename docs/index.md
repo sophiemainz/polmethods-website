@@ -13,7 +13,7 @@ Seminar Series on Methods in Political Science, Department of Government, Uppsal
 
 ### Future Ideas (Autumn 2024) 
 
-- Pre-registration of experiments: Seminar on the how-tos of experiment preregistration, including discussions on best practices and challanges.
+- Pre-registration of experiments
 - Vignette design for survey experiments
 
 
