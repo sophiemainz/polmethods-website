@@ -8,7 +8,7 @@ Seminar Series on Methods in Political Science, Department of Government, Uppsal
 |------------|------------|------------|--------------------------------------|
 | 13.03.2024 | 13:30 - 17:00 | Conjoint Experiments | Half-day on conjoint experiments with individual project presentations. Co-orgainsers: Maria Nordbrandt Bergström and Lutz Gschwind |
 | 05.04.2024 | 09:30 - 11:00 | Surveys in challenging contexts | Seminar on the design and administration of surveys in challangeing contexts. Presenters: Emma Elfversson and Jeffrey Paller. Co-organiser: Emma Elfversson|
-| 07.05.2024 | 10:00-12:00 | Swedish population data | Seminar on register data, both with introductory elements and discussions of ongoing work. Presenters: Sven Oskarsson, Karl-Oskar Lindgren and Marcus Österman |
+| 07.05.2024 | 10:00 - 12:00 | Swedish population data | Seminar on register data, both with introductory elements and discussions of ongoing work. Presenters: Sven Oskarsson, Karl-Oskar Lindgren and Marcus Österman |
 
 
 ### Future Ideas (Autumn 2024) 
