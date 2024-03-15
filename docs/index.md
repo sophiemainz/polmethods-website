@@ -12,7 +12,7 @@ Seminar Series on Methods in Political Science, Department of Government, Uppsal
 
 
 
-### Future Ideas (Autumn 2024) 
+### Schedule Autumn 2024
 
 | Date       | Time       | Topic        | Format                                  |
 |------------|------------|------------|--------------------------------------|
