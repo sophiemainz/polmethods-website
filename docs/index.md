@@ -14,8 +14,10 @@ Seminar Series on Methods in Political Science, Department of Government, Uppsal
 
 ### Future Ideas (Autumn 2024) 
 
-- Pre-registration of experiments
-- Vignette design for survey experiments
+| Date       | Time       | Topic        | Format                                  |
+|------------|------------|------------|--------------------------------------|
+| week 40 | tba | Vignette design for survey experiments | open call for presenters |
+| tba | tba | Pre-registration of experiments | open call for presenters |
 
 
 
@@ -34,6 +36,8 @@ Seminar Series on Methods in Political Science, Department of Government, Uppsal
 ### Would you like to participate? 
 
 The PolMethod events welcome members of the Department of Government and external guests, regardless of departmental affiliation. As such, you are welcome to circle the invitation in your network. Detailled information about the events is send out by mail. If you have ideas for future sessions please reach out to us, there are still slots available. 
+
+We would also like to encoute collegues working with mixed or qualitative methods to approach us with ideas!
 
 ### Contact
 
