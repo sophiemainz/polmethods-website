@@ -4,7 +4,7 @@ Seminar Series on Methods in Political Science, Department of Government, Uppsal
 
 ### Schedule Spring 2024 
 
-| Date       | Time       | Topic        | Format                                  |
+| Date       | Time       | Topic        | Information                                  |
 |------------|------------|------------|--------------------------------------|
 | 13.03.2024 | 13:30 - 17:00 | Conjoint Experiments | Half-day on conjoint experiments with individual project presentations. Co-orgainsers: Maria Nordbrandt Bergström and Lutz Gschwind |
 | 05.04.2024 | 09:30 - 11:00 | Surveys in challenging contexts | Seminar on the design and administration of surveys in challangeing contexts. Presenters: Emma Elfversson, Julia Köbrich (GIGA Institute of African Affairs, Hamburg) and Jeffrey Paller. Co-organiser: Emma Elfversson|
@@ -14,7 +14,7 @@ Seminar Series on Methods in Political Science, Department of Government, Uppsal
 
 ### Schedule Autumn 2024
 
-| Date       | Time       | Topic        | Format                                  |
+| Date       | Time       | Topic        | Information                                  |
 |------------|------------|------------|--------------------------------------|
 | week 40 | tba | Vignette design for survey experiments | open call for presenters |
 | tba | tba | Pre-registration of experiments | open call for presenters |
@@ -23,7 +23,7 @@ Seminar Series on Methods in Political Science, Department of Government, Uppsal
 
 ### Past Events 2023
 
-| Date       | Topic        | Format                                  |
+| Date       | Topic        | Information                                  |
 |------------|-------------------|-----------------------------------------|
 | 09.06.2023 | Machine Learning (ML) and Text-as-Data (TAD) | Introductory workshop by Matías Piqueras| 
 | 12.05.2023 | Machine Learning for Social Scientists | Introductory workshop by Amandus Krantz|
